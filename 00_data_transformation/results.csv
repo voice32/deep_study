@@ -1,0 +1,6 @@
+,Indicator,Dataset-wise Normalized,Sample-wise Normalized,Dataset-wise Standardized,Sample-wise Standardized
+0,Averaged on Last Epoch,97.424,97.36800000000001,97.042,97.134
+1,Averaged Max Achieved,97.55,97.6,97.28999999999999,97.46000000000001
+2,Overall Max on Last Epoch,97.52,97.42,97.17,97.37
+3,Overall Max Achieved,97.77,97.81,97.5,97.72999999999999
+4,Averaged Max Epoch,34.0,45.0,18.0,27.0
